@@ -31,7 +31,6 @@
         {
           "__type": "Sandbox.NetworkHelper",
           "__guid": "d5fc4cfb-856e-4705-9256-ef6e6ec567bd",
-          "OwnerId": 0,
           "PlayerPrefab": {
             "_type": "gameobject",
             "go": "7ae5a56c-999f-4202-af3f-21c4a99315a4"
@@ -140,6 +139,7 @@
         {
           "__type": "Sdfbug",
           "__guid": "2174a7f5-3278-4c08-b6bc-109e8b379a0f",
+          "repo": "Repo1",
           "sdf3DVolume": "vols/vol.sdfvol",
           "sdf3DWorld": {
             "_type": "component",
@@ -219,7 +219,7 @@
   },
   "Title": "sdfbug",
   "Description": "",
-  "LastSaved": "2024-05-15T19:18:49.9349185-04:00",
+  "LastSaved": "2024-05-15T19:44:08.1810876-04:00",
   "ResourceVersion": 1,
   "__version": 1,
   "__references": [
